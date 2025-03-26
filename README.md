@@ -9,5 +9,5 @@
 - Foodx-251
 - UEC food-256
 
-# Methods
+## Methods
 - Deep learning in food category recognition
